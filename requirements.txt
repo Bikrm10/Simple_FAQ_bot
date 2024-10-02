@@ -1,0 +1,4 @@
+spacy
+streamlit
+python==3.10.4
+python -m spacy download en_core_web_lg
